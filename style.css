@@ -37,6 +37,11 @@ section {
   font-weight: bold;
 }
 
+.card-text-diff:hover {
+  font-size: 15px;
+  font-weight: bold;
+}
+
 .outer {
   padding-top: 2%;
   display: flex;
